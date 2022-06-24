@@ -1,0 +1,18 @@
+= About Starter
+
+Starting point for `about` wikis.
+
+[cols="3,1,8"]
+|===
+| https://github.com/IO42630/about-diag[`about-diag`] | 🕸️ | UML
+| https://github.com/IO42630/about-git[`about-git`] | |
+| https://github.com/IO42630/about-java[`about-java`]  | ✨ |
+| https://github.com/IO42630/about-JS[`about-JS`] | ✨|
+| https://github.com/IO42630/about-linux[`about-linux`] | | shell, tools, local env.
+| https://github.com/IO42630/about-python[`about-python`] | |
+| https://github.com/IO42630/about-scala[`about-scala`] | 🕸️ |
+| https://github.com/IO42630/about-sql[`about-sql`] | |
+| https://github.com/IO42630/about-starter[`about-starter`] | | you are here.
+| https://github.com/IO42630/about-web[`about-web`] | | basic web concepts
+|===
+
