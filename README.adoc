@@ -1,9 +1,15 @@
-= About Starter
+= about-starter
+:stylesheet: ../../shared/adoc-styles.css
+:toc:
+:toclevels: 4
 
-Starting point for `about` wikis.
+* Overview for `about` projects.
+* `about` projects are wikis that collect insight on a certain topic.
+* States: ✨ in use, 🕸️ on hold.
 
 [cols="3,1,8"]
 |===
+| Project | State | Description
 | https://github.com/IO42630/about-diag[`about-diag`] | 🕸️ | UML
 | https://github.com/IO42630/about-git[`about-git`] | |
 | https://github.com/IO42630/about-java[`about-java`]  | ✨ |
@@ -12,7 +18,6 @@ Starting point for `about` wikis.
 | https://github.com/IO42630/about-python[`about-python`] | |
 | https://github.com/IO42630/about-scala[`about-scala`] | 🕸️ |
 | https://github.com/IO42630/about-sql[`about-sql`] | |
-| https://github.com/IO42630/about-starter[`about-starter`] | | you are here.
 | https://github.com/IO42630/about-web[`about-web`] | | basic web concepts
 |===
 
