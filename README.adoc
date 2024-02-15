@@ -4,7 +4,7 @@
 :toclevels: 4
 
 * Overview for `about` projects.
-* `about` projects are wikis that collect insight on a certain topic.
+* `about` projects are wikis that collect insights on a certain topic.
 * States: ✨ in use, 🕸️ on hold.
 
 [cols="3,1,8"]
