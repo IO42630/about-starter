@@ -4,20 +4,33 @@
 :toclevels: 4
 
 * Overview for `about` projects.
-* `about` projects are wikis that collect insights on a certain topic.
-* States: ✨ in use, 🕸️ on hold.
+* `about` projects are wikis about the respective topic.
+* States:
+** ✨ expanding, or under construction.
+** ♻️ maintaining.
+** 🕸️ currently not in focus.
 
-[cols="3,1,8"]
+
+[cols="3,2,6"]
 |===
-| Project | State | Description
-| https://github.com/IO42630/about-diag[`about-diag`] | 🕸️ | UML
-| https://github.com/IO42630/about-git[`about-git`] | |
-| https://github.com/IO42630/about-java[`about-java`]  | ✨ |
-| https://github.com/IO42630/about-JS[`about-JS`] | ✨|
-| https://github.com/IO42630/about-linux[`about-linux`] | | shell, tools, local env.
-| https://github.com/IO42630/about-python[`about-python`] | |
-| https://github.com/IO42630/about-scala[`about-scala`] | 🕸️ |
-| https://github.com/IO42630/about-sql[`about-sql`] | |
-| https://github.com/IO42630/about-web[`about-web`] | | basic web concepts
+| Project                                                   | State | Description
+| https://github.com/IO42630/about-ai[`about-ai`]           | ♻️    |
+| https://github.com/IO42630/about-data[`about-data`]       | ♻️    |
+| https://github.com/IO42630/about-diag[`about-diag`]       | 🕸️    | UML
+| https://github.com/IO42630/about-git[`about-git`]         | 🕸️    |
+| https://github.com/IO42630/about-gitlab[`about-gitlab`]   | 🕸️    |
+| https://github.com/IO42630/about-jakarta[`about-jakarta`] | ♻️    |
+| https://github.com/IO42630/about-java[`about-java`]       | ♻️    |
+| https://github.com/IO42630/about-jetty[`about-jetty`]     | 🕸️    |
+| https://github.com/IO42630/about-JS[`about-JS`]           | 🕸️    |
+| https://github.com/IO42630/about-kotlin[`about-kotlin`]   | 🕸️    |
+| https://github.com/IO42630/about-misc[`about-misc`]       | ♻️    | shell, tools, misc.
+| https://github.com/IO42630/about-nginx[`about-nginx`]     | 🕸️    |
+| https://github.com/IO42630/about-python[`about-python`]   | 🕸️    |
+| https://github.com/IO42630/about-quarkus[`about-quarkus`] | 🕸️    |
+| https://github.com/IO42630/about-scala[`about-scala`]     | 🕸️    |
+| https://github.com/IO42630/about-spring[`about-spring`]   | ♻️    |
+| https://github.com/IO42630/about-sql[`about-sql`]         | 🕸️    |
+| https://github.com/IO42630/about-web[`about-web`]         | 🕸️    | basic web concepts
 |===
 

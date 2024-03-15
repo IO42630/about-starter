@@ -1,2 +1,5 @@
-/about-starter.iml
-/.idea/
+**.iml
+**/.idea/
+**/target/
+**.pdf
+**.zip
